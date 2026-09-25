@@ -10,15 +10,15 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 ## 👨‍💻 About Me
 
-<ul>
+<ul  style="list-style-position: inside; padding: 0;">
   <li> 💼 Java Full Stack Developer</li>
-  - ☕ Working primarily with Java & Spring Boot
-  - 🅰️ Building applications with Angular
-  - 🔥 Working with Microservices, Kafka & gRPC
-  - ☁️ Exploring AWS & Cloud technologies
-  - 🤖 Currently learning AI & Agentic AI
-  - 🧠 Practicing Data Structures & Algorithms
-  - 🚀 Interested in building useful developer tools and micro-SaaS
+  <li> ☕ Working primarily with Java & Spring Boot </li> 
+  <li> 🅰️ Building applications with Angular </li> 
+  <li> 🔥 Working with Microservices, Kafka & gRPC </li>
+  <li> ☁️ Exploring AWS & Cloud technologies </li>
+  <li> 🤖 Currently learning AI & Agentic AI </li>
+  <li> 🧠 Practicing Data Structures & Algorithms</li>
+  <li> 🚀 Interested in building useful developer tools and micro-SaaS </li>
 </ul>
 
 
