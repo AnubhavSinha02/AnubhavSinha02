@@ -16,7 +16,7 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
   🔥 Working with Microservices, Kafka & gRPC <br><br>
   ☁️ Exploring AWS & Cloud technologies <br><br>
   🤖 Currently learning AI & Agentic AI <br><br>
-  🧠 Practicing Data Structures & Algorithms <br<br>
+  🧠 Practicing Data Structures & Algorithms <br><br>
   🚀 Interested in building useful developer tools and micro-SaaS 
 
 
