@@ -9,7 +9,6 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 </div>
 
 <div align="center">
----
 
 ## 👨‍💻 About Me
 
