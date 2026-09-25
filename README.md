@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Anubhav&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&desc=Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+Angular+%7C+Kafka+%7C+AI&descSize=20&descAlign=50&descAlignY=65">
+</p>
+
 <div align="center">
-
-# 👋 Hi, I'm Anubhav
-
-### Java Full Stack Developer | Spring Boot | Angular | Kafka | AI
 
 Building scalable backend systems and exploring AI & Agentic AI 🚀
 
