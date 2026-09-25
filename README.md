@@ -8,8 +8,8 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 </div>
 
----
 <div align="center">
+---
 ## 👨‍💻 About Me
 
 - 💼 Java Full Stack Developer
@@ -88,7 +88,7 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 ---
 
 ## 📫 Connect With Me
-<div display="flex" justify-content="space-evenly" align="center" text-align="center">[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)          [Email](mailto:sinha.anubhav.as@gmail.com)</div>
+[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)                          [Email](mailto:sinha.anubhav.as@gmail.com)
 
 <!--[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)          [Email](mailto:sinha.anubhav.as@gmail.com) -->
 
