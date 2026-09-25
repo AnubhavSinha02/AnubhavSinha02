@@ -89,3 +89,5 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 [Email](mailto:sinha.anubhav.as@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="footer">
