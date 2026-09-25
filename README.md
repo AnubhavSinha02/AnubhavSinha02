@@ -54,7 +54,8 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 </div>
 --- -->
 
-## 🚀 Featured Projects
+
+<!-- ## 🚀 Featured Projects
 
 ┌──────────────────────┐ ┌──────────────────────┐
 │ Spring Boot Project  │ │ Kafka Project        │
@@ -66,7 +67,7 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 │ ⭐ Python            │ │ ⭐ TypeScript        │
 └──────────────────────┘ └──────────────────────┘
 
----
+--- -->
 
 ## 📚 Currently Learning
 
