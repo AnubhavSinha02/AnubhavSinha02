@@ -86,6 +86,6 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 [LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)
 
-[Email](sinha.anubhav.as@gmail.com)
+ Email: [sinha.anubhav.as@gmail.com](mailto:sinha.anubhav.as@gmail.com)
 
 </div>
