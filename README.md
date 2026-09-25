@@ -1,13 +1,5 @@
 <div align="center">
 
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│             Hi, I'm Anubhav 👋                  │
-│                                                  │
-│    Java • Spring Boot • Angular • AI             │
-│                                                  │
-└──────────────────────────────────────────────────┘
-
 # 👋 Hi, I'm Anubhav
 
 ### Java Full Stack Developer | Spring Boot | Angular | Kafka | AI
