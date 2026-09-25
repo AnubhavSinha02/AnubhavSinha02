@@ -9,10 +9,8 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
 <div align="center">
+## 👨‍💻 About Me
 
 - 💼 Java Full Stack Developer
 - ☕ Working primarily with Java & Spring Boot
@@ -23,13 +21,11 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Interested in building useful developer tools and micro-SaaS
 
-- </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +41,6 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-</div>
 
 ---
 
@@ -79,7 +74,6 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 ## 📚 Currently Learning
 
-<div align="center">
 
 | 🚀 | Currently |
 |---|---|
@@ -91,14 +85,12 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 | 🔧 | Building side projects |
 
 
-</div>
 ---
 
 ## 📫 Connect With Me
+<div display="flex" justify-content="space-evenly" align="center" text-align="center">[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)          [Email](mailto:sinha.anubhav.as@gmail.com)</div>
 
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)          [Email](mailto:sinha.anubhav.as@gmail.com)
+<!--[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)          [Email](mailto:sinha.anubhav.as@gmail.com) -->
 
 </div>
 
