@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Anubhav&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&desc=Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+Angular+%7C+Kafka+%7C+AI&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0077B6,100:00B4D8&section=header&reversal=false&text=Hi%2C+I%27m+Anubhav&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&desc=Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+Angular+%7C+Kafka+%7C+AI&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="header">
 </p>
 
 <div align="center">
@@ -90,4 +90,4 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0077B6,100:00B4D8&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="footer">
