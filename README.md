@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0077B6,100:00B4D8&section=header&reversal=false&text=Hi%2C+I%27m+Anubhav&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&desc=Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+Angular+%7C+Kafka+%7C+AI&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=F5B8CC&section=header&reversal=false&text=Hi%2C+I%27m+Anubhav&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&desc=Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+Angular+%7C+Kafka+%7C+AI&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="header">
 </p>
 
 <div align="center">
@@ -12,6 +12,8 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
 - 💼 Java Full Stack Developer
 - ☕ Working primarily with Java & Spring Boot
 - 🅰️ Building applications with Angular
@@ -21,9 +23,13 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Interested in building useful developer tools and micro-SaaS
 
+- </div>
+
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,6 +44,8 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
 
 ---
 
@@ -71,6 +79,8 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 ## 📚 Currently Learning
 
+<div align="center">
+
 | 🚀 | Currently |
 |---|---|
 | 💼 | Java Full Stack Development |
@@ -80,14 +90,18 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 | 🧠 | System Design & DSA |
 | 🔧 | Building side projects |
 
+
+</div>
 ---
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)
+<div align="center">
 
-[Email](mailto:sinha.anubhav.as@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anubhav-sinha-83318a140/)          [Email](mailto:sinha.anubhav.as@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0077B6,100:00B4D8&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="footer">
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F5B8CC&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=var%28--ds-purple-500%29&strokeWidth=0&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="footer">
