@@ -41,6 +41,7 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 ---
 
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -51,7 +52,7 @@ Building scalable backend systems and exploring AI & Agentic AI 🚀
 
 
 </div>
----
+--- -->
 
 ## 🚀 Featured Projects
 
